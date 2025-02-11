@@ -1,0 +1,28 @@
+{
+  "cli": {
+    "version": ">= 15.0.4",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "android": {
+      "env": {
+        "MY_API_KEY": "your_api_key_value",
+        "MY_SECRET_KEY": "your_secret_key_value"
+      }
+    },
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {
+      "autoIncrement": true,
+      "resourceClass": "medium"
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
