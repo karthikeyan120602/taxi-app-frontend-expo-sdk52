@@ -44,4 +44,4 @@ To learn more about developing your project with Expo, look at the following res
 
 ![image](https://github.com/user-attachments/assets/ff8086e4-6fc8-4ed4-a64f-fc12b8df4909)
 
-Scan the above qr in your downloaded Expo App
+Scan the above qr code in your downloaded Expo App to view the application
