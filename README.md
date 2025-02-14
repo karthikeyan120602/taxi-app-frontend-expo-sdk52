@@ -2,14 +2,14 @@
 
 
 Tech Stack
-      React Native
-      Expo
-      Stripe
-      PostgreSQL
-      Google Maps
-      Zustand
-      Clerk
-      Tailwind CSS
+     - React Native
+     - Expo
+     - Stripe
+     - PostgreSQL
+     - Google Maps
+     - Zustand
+     - Clerk
+     - Tailwind CSS
 🔋 Features
 👉 Onboarding Flow – Seamless user registration and setup process.
 
